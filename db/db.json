@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "Angular App",
+      "categories": "Blog Post Application",
+      "content": "Blog Post App by varun",
+      "id": 2,
+      "likes": 14
+    },
+    {
+      "likes": 3,
+      "title": "Node JS Assignment",
+      "categories": "BackEnd",
+      "content": "wdf",
+      "id": 3
+    },
+    {
+      "title": "hi",
+      "categories": "hi",
+      "content": "hi",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "title": "Hello",
+      "categories": "Hello",
+      "content": "Any",
+      "likes": 2,
+      "id": 5
+    }
+  ]
+}
